@@ -5,7 +5,6 @@ class Puppy
     @name = name
     @breed = breed
     @months_old = months_old
-    binding.pry
   end
   
   
