@@ -11,5 +11,8 @@ class Puppy
     @age 
   end 
   
+  def months_old=(age)
+    @age = age 
+  end
   
 end 
